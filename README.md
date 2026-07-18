@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0189-rotate-array/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,4 +23,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0189-rotate-array/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
