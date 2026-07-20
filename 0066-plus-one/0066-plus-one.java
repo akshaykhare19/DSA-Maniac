@@ -6,18 +6,10 @@ class Solution {
                 digits[i]+=1;
                 return digits;
             }
-            
-
-            if(digits[i]==9) {
-                digits[i] = 0;
-
-                if(i==0){
-                    int result[] = new int[n+1];
-                    result[0] = 1;
-                    return result;
-                }
-            }
+            digits[i] = 0;
         }
-        return new int[n];
+        int result[] = new int[n+1];
+        result[0] = 1;
+        return result;
     }
 }
