@@ -12,10 +12,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0001-two-sum/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
