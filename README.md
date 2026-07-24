@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0066-plus-one](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0066-plus-one/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0189-rotate-array/) | Medium |
@@ -48,4 +50,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
