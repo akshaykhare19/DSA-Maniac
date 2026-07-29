@@ -6,10 +6,10 @@ class Solution {
 
         while(r < n) {
             char chr = s.charAt(r);
-            char chl = s.charAt(l);
             freq[chr-'A']++;
             maxFreq = Math.max(maxFreq, freq[chr-'A']);
-            while((r-l+1-maxFreq) > k) {
+            if((r-l+1-maxFreq) > k) {
+                char chl = s.charAt(l);
                 freq[chl-'A']--;
                 l++;
             }
