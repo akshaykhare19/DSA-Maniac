@@ -24,6 +24,7 @@ Collection of LeetCode questions to revise DSA & ace the coding interview! - Cre
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0525-contiguous-array](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -69,11 +70,13 @@ Collection of LeetCode questions to revise DSA & ace the coding interview! - Cre
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0076-minimum-window-substring](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
