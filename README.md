@@ -10,6 +10,7 @@ Collection of LeetCode questions to revise DSA & ace the coding interview! - Cre
 | [0011-container-with-most-water](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0049-group-anagrams](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0066-plus-one/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0189-rotate-array/) | Medium |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to revise DSA & ace the coding interview! - Cre
 | ------- | ------- |
 | [0001-two-sum](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0525-contiguous-array](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0525-contiguous-array/) | Medium |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to revise DSA & ace the coding interview! - Cre
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0049-group-anagrams/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +80,7 @@ Collection of LeetCode questions to revise DSA & ace the coding interview! - Cre
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->
