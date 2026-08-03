@@ -12,6 +12,7 @@ Collection of LeetCode questions to revise DSA & ace the coding interview! - Cre
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0066-plus-one/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to revise DSA & ace the coding interview! - Cre
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0076-minimum-window-substring/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0525-contiguous-array](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0525-contiguous-array/) | Medium |
@@ -106,4 +108,8 @@ Collection of LeetCode questions to revise DSA & ace the coding interview! - Cre
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
