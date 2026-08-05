@@ -1,4 +1,4 @@
-# DSA-Maniac (Revision)
+# DSA-Maniac (Learning)
 Collection of LeetCode questions to revise DSA & ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 
 <!---LeetCode Topics Start-->
