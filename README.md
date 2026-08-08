@@ -40,6 +40,7 @@ Collection of LeetCode questions to revise DSA & ace the coding interview! - Cre
 | [0011-container-with-most-water](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0283-move-zeroes/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to revise DSA & ace the coding interview! - Cre
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0076-minimum-window-substring/) | Hard |
+| [0125-valid-palindrome](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0125-valid-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
