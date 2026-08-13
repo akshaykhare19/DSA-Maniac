@@ -51,6 +51,7 @@ Here lies the collection LeetCode questions to revise DSA & ace the coding inter
 | [0009-palindrome-number](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0189-rotate-array/) | Medium |
+| [0415-add-strings](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0415-add-strings/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ Here lies the collection LeetCode questions to revise DSA & ace the coding inter
 | [0049-group-anagrams](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0125-valid-palindrome/) | Easy |
+| [0415-add-strings](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -124,4 +126,8 @@ Here lies the collection LeetCode questions to revise DSA & ace the coding inter
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0415-add-strings](https://github.com/akshaykhare19/DSA-Maniac/tree/main/0415-add-strings/) | Easy |
 <!---LeetCode Topics End-->
