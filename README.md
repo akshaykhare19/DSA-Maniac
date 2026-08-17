@@ -1,7 +1,7 @@
 # DSA-Maniac
 Here, lies the collection LeetCode questions to revise DSA & ace the coding interview! - Created this using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 
-<!---LeetCode Topics Start here-->
+<!---LeetCode Topics Start right here-->
 # LeetCode Topics
 ## Array
 | Problem Name | Difficulty |
