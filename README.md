@@ -1,5 +1,5 @@
 # DSA-Maniac
-Here is the collection LeetCode questions to revise DSA & ace the coding interview! --- This was created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
+Here is the collection LeetCode questions to revise DSA & ace the coding interview! ---- This was created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
 
 <!---LeetCode Topics Start right here-->
 # LeetCode Topics
